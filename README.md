@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/rose-gold-poison/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Rose Gold Poison](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/rose-gold-poison/) |
+| **Get License** | [Secure Licensing Rights for Rose Gold Poison](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/rose-gold-poison/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Kaali raat de hanere vich baldi ae fire
+> Main takda haan tainu mera dilda desire
+> Teri zulfan da jaadu mainu karda ae slow
+> Main labhda haan tainu you already know
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
