@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/rose-gold-poison/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Rose Gold Poison](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/rose-gold-poison/) |
+| **Get License** | [License this song: Rose Gold Poison](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/rose-gold-poison/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2ee460b220f7a2f5824e24827a8de3f48320f4e06bec80138ebfcf143fe5cf0f` |
 | **Timestamp** | May 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

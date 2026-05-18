@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Rose Gold Poison
+
+This log tracks the cryptographic history and versioning for the song **Rose Gold Poison** (rose-gold-poison).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-19T01:44:18.655205 | `v1` | `2ee460b220f7a2f5824e24827a8de3f48320f4e06bec80138ebfcf143fe5cf0f` | `aeee466f6a36ff6cf922621be8032152deed3e8e5269b7b8c7e90e01ddff5312` | `2026-05-19_rose-gold-poison-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
